@@ -1,0 +1,8 @@
+googletrans
+telethon
+time
+requests
+re
+beautifulsoup
+selenium
+webdriver_manager
